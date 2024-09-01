@@ -50,9 +50,11 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/KenanGain" target="_blank">
+      <a href="https://github.com/Burak2210" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square" alt="Kenan Gain">
       </a>
     </td>
   </tr>
 </table>
+
+[![Burak2210](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FBurak2210&subtitle=Burak2210&size=square)](https://github.com/Burak2210)
